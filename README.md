@@ -4,24 +4,21 @@
 
 ### Story
 
-In a world where robotics is advancing exponentially, chaos has taken a new form! What started as a simple university project to create an automated train quickly spiraled into a full-blown robot apocalypse. A team of bright university students, who began their work just last week, unknowingly opened Pandora's box. By the time their first prototype was operational, the streets were swarming with rogue robots. The only way to regain control? A violent rampage to end the robotic uprising!
+Robotics is advancing exponentially! A team of university students started working on an automated train last week, and by the time they got their first prototype working, the robot apocalypse had begun!
 
 ### Controls
 
-- **Left Arrow:** Choose to go left at the next split.
-- **Right Arrow:** Choose to go right at the next split.
-- **Up Arrow:** Boost the train’s speed to plow through robots and obstacles.
-
-**Note:** Failing to choose a direction in time will cause the train to derail! Use the boost wisely; while it helps in racking up points, it also increases the risk of derailment.
+- Use the **left** and **right arrows** to choose which direction to go at the next split in the path. If you don't make a choice in time, the train will derail!
+- Use the **up arrow** to boost the train if you think you can handle the speed!
 
 ### Goal
 
-The objective is simple yet thrilling: run over as many robots as you can to achieve the highest score possible. Here's how to maximize your points:
+Run over as many robots as possible to rack up the highest score you can! You'll get more points if you boost, but make sure not to derail or run into any blockades! The train's base speed will also increase over time. Can you keep up?
 
-- **Boost:** Use the up arrow to increase your speed and your score multiplier.
-- **Avoid Derailment:** Stay vigilant at path splits to keep the train on track.
-- **Dodge Blockades:** Avoid crashing into obstacles that could end your run.
+### Credits
 
-As you progress, the train's base speed will continuously increase, challenging your reflexes and decision-making skills. Can you keep up with the escalating pace and dominate the robot apocalypse?
-
-Join the fight and show those robots who's boss!
+- **Cookie Cherith**
+- **Michelle Kong**
+- **Michael Lam**
+- **Ben Comino**
+- **Shaheer Jilanee**
