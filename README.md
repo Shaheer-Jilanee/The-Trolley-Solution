@@ -1,7 +1,3 @@
-Sure, here's the rewritten description for a `README.md` file on GitHub:
-
----
-
 # The Trolley Problem has been solved
 
 ## And the solution is VIOLENCE!
@@ -29,7 +25,3 @@ The objective is simple yet thrilling: run over as many robots as you can to ach
 As you progress, the train's base speed will continuously increase, challenging your reflexes and decision-making skills. Can you keep up with the escalating pace and dominate the robot apocalypse?
 
 Join the fight and show those robots who's boss!
-
----
-
-Feel free to customize or expand upon this description to better fit your project's needs.
